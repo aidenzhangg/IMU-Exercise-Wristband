@@ -4,7 +4,6 @@ A wearable motion-and-vitals band, plus a web app that coaches a full exercise s
 
 The session follows the **CCCARE** exercise program from the University of Waterloo (Centre for Community, Clinical and Applied Research in Exercise): warm-up and 15–30 min of cardio at 40–60% of heart-rate reserve, then 1–2 sets of 10–20 reps of two exercises in each functional category (squat, push, hinge, pull, carry, core), stretches, and a cool-down. The band replaces the paper log and the "did that rep count?" guesswork.
 
-Built for ECE 198 (Project Studio) at the University of Waterloo by Group 4.
 
 ![Band prototype](docs/images/band-prototype.jpg)
 
