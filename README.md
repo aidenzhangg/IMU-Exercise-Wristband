@@ -1,4 +1,4 @@
-# IMU Exercise Wristband
+# IMU Exercise Strap
 
 A wearable motion-and-vitals band, plus a web app that coaches a full exercise session around it. An Arduino Uno R4 Minima reads a 3-axis accelerometer and a pulse sensor on the arm or thigh, streams joint angle and heart rate to the browser at 20 Hz, and the site counts reps, flags short reps, keeps you in your heart-rate zone and logs every set.
 
